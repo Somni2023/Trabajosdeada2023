@@ -1,0 +1,5 @@
+
+nombre = input (" escriba su nombre")
+n1 = int ( input ( " escriba un numero :"))
+n2 = int( input (" escriba un numero :") )
+print ( "nombre", " la respuesta es :", n1+n2 , sep "\n" )
